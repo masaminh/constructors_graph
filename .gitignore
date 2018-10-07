@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# output files
+constructors.gv
+constructors.gv.pdf
